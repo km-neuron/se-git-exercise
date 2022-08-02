@@ -17,33 +17,35 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 - Exercise 1
   - **Task**: Configurasi **email** dan **name** Git mu dengan identitas yang benar agar git bisa membuat `commit`!
 
-  - ***Required command**: `git config --list`:
-    - expect:
+  - ***Required command**: lakukan perintah `git config --list`:
+    - expected:
 
       ```bash
       > git config --list
       user.email=example@gmail.com 
-      user.name=example_username
+      user.name=example_name
       ```
 
     - screenshoot your output:
 
       ![assets/init/exercise1.png](assets/init/exercise1.png)
+  
+  > **Warning!** Selanjutnya, setiap **Required command/output** harus diiringi dengan perintah `git config user.name && git config user.email` untuk memastikan keaslian screenshot.
 
 - Exercise 2
 
   - **Task**: Buatlah sebuah folder bernama **git-exercise**, masuk ke folder tersebut dan jadikan sebagai repository git!
 
-  - ***Required command**: dengan perintah `pwd`, `ls -la` lalu gunakan perintah `git status`:
-    - expect:
+  - ***Required command**: lakukan perintah `pwd`, `ls -la` lalu gunakan perintah `git status`:
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
-
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
+      
       > pwd
-      /home/git-exercise
+      /home/username/git-exercise
 
       > ls -la
       .git
@@ -64,13 +66,13 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 
   - **Task**: Buatlah 2 file yang bernama `belajar.html` dan `ngoding.js`!
 
-  - ***Required output**: dengan perintah `ls` dan `git status` untuk mengetahui status git:
-    - expect:
+  - ***Required output**: lakukan perintah `ls` dan `git status`
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > ls
       belajar.html ngoding.js
@@ -95,12 +97,12 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
   - **Task**: Setelah itu masukkan file `belajar.html` ke kondisi **staged**.
 
   - ***Required output**: Periksalah status Git sekarang!.
-    - expect:
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git status
       On branch master
@@ -132,12 +134,12 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
   - **Task**: Buatlah commit untuk file yang ada di **staging area** dengan pesan: `commit pertama`. Tulis pesan sama persis!
 
   - ***Required command**: Lakukanlah perintah `git status`
-    - expect:
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git status
       On branch master
@@ -168,9 +170,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
       commit pertama
 
-    > git config --list
-    user.email=example@gmail.com 
-    user.name=example_username
+    > git config user.name && git config user.email
+    example_name
+    example@gmail.com
     ```
 
   - screenshoot your output:
@@ -206,9 +208,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
       commit pertama
 
-    > git config --list
-    user.email=example@gmail.com 
-    user.name=example_username
+    > git config user.name && git config user.email
+    example_name
+    example@gmail.com
     ```
 
   - screenshoot your output:
@@ -216,12 +218,12 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
     ![assets/log/exercise2-1.png](assets/log/exercise2-1.png)
 
   - ***Required command**: Lakukanlah perintah `git status`
-    - expect:
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git status
       On branch master
@@ -237,12 +239,12 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
   - **Task**: Buatlah perubahan pada file `belajar.html`, dengan menambahkan content "`<h1>Latihan Git</h1>`". Lalu tambahkan perubahan tersebut ke **staging area**!
   
   - ***Required command**: Lakukanlah perintah `git status`
-    - expect:
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git status
       On branch master
@@ -281,9 +283,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
         commit pertama
 
-    > git config --list
-    user.email=example@gmail.com 
-    user.name=example_username
+    > git config user.name && git config user.email
+    example_name
+    example@gmail.com
     ```
 
   - screenshoot your output:
@@ -308,9 +310,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
         commit pertama
 
-    > git config --list
-    user.email=example@gmail.com 
-    user.name=example_username
+    > git config user.name && git config user.email
+    example_name
+    example@gmail.com
     ```
 
   - screenshoot your output:
@@ -328,9 +330,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
     4c6adfa commit kedua
     2860ee9 commit pertama
 
-    > git config --list
-    user.email=example@gmail.com 
-    user.name=example_username
+    > git config user.name && git config user.email
+    example_name
+    example@gmail.com
     ```
   
   - screenshoot your output:
@@ -362,9 +364,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
       
           commit pertama
 
-    > git config --list
-    user.email=example@gmail.com 
-    user.name=example_username
+    > git config user.name && git config user.email
+    example_name
+    example@gmail.com
     ```
   
   - screenshoot your output:
@@ -380,9 +382,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
     ```bash
     * 2860ee9 (HEAD) commit pertama
 
-    > git config --list
-    user.email=example@gmail.com 
-    user.name=example_username
+    > git config user.name && git config user.email
+    example_name
+    example@gmail.com
     ```
 
   - screenshoot your output:
@@ -398,9 +400,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
     * 4c6adfa commit kedua
     * 2860ee9 commit pertama
     
-    > git config --list
-    user.email=example@gmail.com 
-    user.name=example_username
+    > git config user.name && git config user.email
+    example_name
+    example@gmail.com
     ```
 
   - screenshoot your output:
@@ -415,7 +417,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - ***Required output**: Lakukan perintah `git config --list` diakhir
 
-    - expect:
+    - expected:
 
       ```bash
       diff --git a/belajar.html b/belajar.html
@@ -432,9 +434,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
       @@ -0,0 +1 @@
       +console.log('Hello Git')
 
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
       ```
 
     - screenshoot your output:
@@ -447,7 +449,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
   
   - ***Required output**: Lakukan perintah `git config --list` diakhir
 
-    - expect:
+    - expected:
 
       ```bash
       diff --git a/belajar.html b/belajar.html
@@ -458,9 +460,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
       -<h1>Latihan Git</h1>
       +<h1>Latihan Git - CAMP2022</h1>
 
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
       ```
 
     - screenshoot your output:
@@ -488,12 +490,12 @@ Terlihat diatas bahwa terjadi perubahan file pada `belajar.html` dan `ngoding.ht
   - **Task:**  Coba masukan semua perubahan tersebut sekaligus ke **staging area**!
   
   - ***Required command**: Lakukanlah perintah `git status` kembali
-    - expect:
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git status
       On branch master
@@ -512,12 +514,12 @@ Terlihat diatas bahwa terjadi perubahan file pada `belajar.html` dan `ngoding.ht
   - **Task:** Lakukan pembatalan perubahan pada file `ngoding.js` di **staging area** agar kembali ke **working directory** untuk kita revisi!
 
   - ***Required command**: Lakukanlah perintah `git status` kembali
-    - expect:
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git status
       On branch master
@@ -540,12 +542,12 @@ Terlihat diatas bahwa terjadi perubahan file pada `belajar.html` dan `ngoding.ht
   - **Task:** Lakukan perubahan pada file `ngoding.js` dengan mengubah contentnya menjadi "`console.log('Latihan Git - CAMP2022')`"!. Lalu masukan ke **staging area** dan lakukan commit dengan pesan "menambahkan content console ke file `ngoding.js`"!
 
   - ***Required command**: Lakukanlah perintah `git status` kembali
-    - expect:
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git status
       On branch master
@@ -573,7 +575,7 @@ Sekarang story commit kita sudah ada 4 pointer yang berisi setiap perubahan pada
 
   - ***Required command**: Lakukan perintah untuk menampilkan history commit dengan opsi `oneline` dan lakukan `cat` pada file `belajar.html` dan `ngoding.js`
 
-    - expect:
+    - expected:
 
       ```bash
       6a2659e (HEAD -> master) Revert "revisi perubahan dari file belajar.html & ngoding.js"
@@ -587,9 +589,9 @@ Sekarang story commit kita sudah ada 4 pointer yang berisi setiap perubahan pada
       > cat ngoding.js
       >
 
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
       ```
 
     - screenshoot your output:
@@ -616,12 +618,12 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - ***Required command**: Lakukanlah perintah `git branch` dan `git status`
 
-    - expect:
+    - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git branch 
         master
@@ -642,7 +644,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - ***Required output**: Lakukan perintah untuk menampilkan history commit kombinasi `oneline` dan `graph`, lalu lakukan perintah `ls`
 
-    - expect:
+    - expected:
 
       ```bash
       * bd531c8 (HEAD -> new-feature) commit new feature
@@ -655,9 +657,9 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
       > ls
       belajar.html fun-feature.js ngoding.js
 
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
       ```
 
     - screenshoot your output:
@@ -670,12 +672,12 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - ***Required command**: Lakukan perintah `git status`, `git branch` dan `ls`
 
-    - expect:
+    - expected:
 
       ```bash
-      >  git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git status
       On branch master
@@ -701,12 +703,12 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph` untuk melihat percabangan yang terjadi
 
-    - expect:
+    - expected:
 
       ```bash
-      >  git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git log --all --decorate --oneline --graph
       * d940eb9 (HEAD -> master) update branch master file ngoding.js
@@ -731,12 +733,12 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph` untuk melihat percabangan yang terjadi
 
-  - expect:
+  - expected:
 
       ```bash
-      >  git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git log --all --decorate --oneline --graph
       * bf84c9a (HEAD -> master) update branch master file belajar.html
@@ -760,12 +762,12 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph` untuk melihat percabangan yang terjadi
 
-    - expect:
+    - expected:
 
       ```bash
-      >  git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git log --all --decorate --oneline --graph
       * 052dd41 (HEAD -> new-feature) update branch new-feature file ngoding.js & feature.js
@@ -794,12 +796,12 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph` untuk melihat percabangan yang terjadi
 
-    - expect:
+    - expected:
 
       ```bash
-      >  git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git log --all --decorate --oneline --graph
       *   752dfaa (HEAD -> master) Merge branch 'new-feature'
@@ -832,12 +834,12 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - ***Required command**: Lakukan perintah `git remote -v` untuk mengetahui remote repository yang sudah ditambahkan.
 
-    - expect:
+    - expected:
 
       ```bash
-      >  git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git remote -v
       origin  https://github.com/aditira/aditira-be1255.git (fetch)
@@ -856,12 +858,12 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph`
 
-    - expect:
+    - expected:
 
       ```bash
-      >  git config --list
-      user.email=example@gmail.com 
-      user.name=example_username
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
 
       > git log --all --decorate --oneline --graph
       *   752dfaa (HEAD -> main, origin/main) Merge branch 'new-feature'
@@ -884,9 +886,9 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
 ***Last requirement**: sreenshoot private repository github mu:
 
-- expect:
+- expected:
   
-  ![Repo Private Done](./assets/repo-done.png)
+  ![Repo Public Done](./assets/repo-done.png)
 
 - screenshoot your repository Github:
 
