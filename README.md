@@ -59,6 +59,8 @@ Berikut adalah rangkuman dari langkah-langkah untuk mengerjakan exercise Git:
 
     ![PR Example](./example-pr.png)
 
+  - Contoh PR: click [di sini](https://github.com/km-neutron/se-git-exercise/pull/1)
+
   > Note: jika semua task sudah selesai untuk dikerjakan, lakukan push dan checklist semua _Progress Exercise Git_ pada description **Pull Request**
 
 ## Restrictions
