@@ -896,4 +896,4 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
   
 Finish.
 
-> **Last Instruction**: Janggan lupa, setelah semua screenshot terisi, lakukan push pada repository dan checklist semua _Progress Exercise Git_ pada description **Pull Request** sesuai dengan instruksi README.md.
+> **Last Instruction**: Jangan lupa, setelah semua screenshot terisi, lakukan push pada repository dan checklist semua _Progress Exercise Git_ pada description **Pull Request** sesuai dengan instruksi README.md.
