@@ -1,5 +1,7 @@
 # **Software Engineer - Git Exercise**
 
+![Git and Github](git-github.png)
+
 ## Objectives
 
 - Mengerti penggunaan Git
