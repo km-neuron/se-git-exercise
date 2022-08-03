@@ -25,9 +25,11 @@
 
 ## Directions
 
-<!-- Untuk mengerjakan Exercise ini, coba simak Video dibawah ini: -->
+Untuk mengerjakan Exercise ini, coba video demo di bawah ini:
 
 <!-- Video Here -->
+
+[![Demo Git Exercise](demo-image.png)](https://youtu.be/qCbN4dX9-_4)
 
 Berikut adalah rangkuman dari langkah-langkah untuk mengerjakan exercise Git:
 
