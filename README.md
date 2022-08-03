@@ -23,7 +23,7 @@
 
 ## Directions
 
-Untuk mengerjakan Exercise ini, coba simak Video dibawah ini:
+<-- Untuk mengerjakan Exercise ini, coba simak Video dibawah ini: -->
 
 <!-- Video Here -->
 
