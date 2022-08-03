@@ -17,13 +17,13 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 - Exercise 1
   - **Task**: Configurasi **email** dan **name** Git mu dengan identitas yang benar agar git bisa membuat `commit`!
 
-  - ***Required command**: lakukan perintah `git config --list`:
+  - ***Required command**: lakukan perintah `git config user.name && git config user.email`:
     - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_name
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
       ```
 
     - screenshoot your output:
@@ -34,7 +34,7 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 
 - Exercise 2
 
-  - **Task**: Buatlah sebuah folder bernama **git-exercise**, masuk ke folder tersebut dan jadikan sebagai repository git!
+  - **Task**: Buatlah sebuah folder dengan format `name-id-exercise` (contoh: aditira-be2022-exercise) diluar folder **se-git-exercise** ini, masuk ke folder tersebut dan jadikan sebagai repository git!
 
   - ***Required command**: lakukan perintah `pwd`, `ls -la` lalu gunakan perintah `git status`:
     - expected:
@@ -830,7 +830,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     ![Repo Private](./assets/repo-public.png)
 
-    Lalu tambahkan **remote** dari repository yang telah dibuat, ke local repository yang bernama **git-exercise**!
+    Lalu tambahkan **remote** dari repository yang telah dibuat, ke local repository yang sudah dibuat dengan format `name-id-exercise`!
 
   - ***Required command**: Lakukan perintah `git remote -v` untuk mengetahui remote repository yang sudah ditambahkan.
 
