@@ -25,7 +25,7 @@
 
 ## Directions
 
-Untuk mengerjakan Exercise ini, coba video demo di bawah ini:
+Untuk melihat cara mengerjakan Exercise ini, simak video demo di bawah ini:
 
 <!-- Video Here -->
 
