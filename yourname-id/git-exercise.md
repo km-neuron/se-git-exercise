@@ -339,7 +339,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
     ![assets/log/exercise6.png](assets/log/exercise6.png)
 
-- Exercise 6
+- Exercise 7
 
   - **Task:** Lakukan perintah Git untuk melihat history commit dengan menampilkan pointer pada setiap commit-nya!
   
@@ -373,7 +373,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
     ![assets/log/exercise6.png](assets/log/exercise6.png)
 
-- Exercise 7
+- Exercise 8
   
   - **Task:** Cobalah kamu pindah ke commit yang pertama kali! Dan coba tampilkan history commit nya dengan kombinasi satu baris dan menampilkan pointer!
   
