@@ -371,7 +371,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
   
   - screenshoot your output:
 
-    ![assets/log/exercise6.png](assets/log/exercise6.png)
+    ![assets/log/exercise7.png](assets/log/exercise7.png)
 
 - Exercise 8
   
