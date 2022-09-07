@@ -371,7 +371,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
   
   - screenshoot your output:
 
-    ![assets/log/exercise6.png](assets/log/exercise6.png)
+    ![assets/log/exercise7.png](assets/log/exercise7.png)
 
 - Exercise 8
   
@@ -389,7 +389,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise7-1.png](assets/log/exercise7-1.png)
+    ![assets/log/exercise8-1.png](assets/log/exercise8-1.png)
   
   - **Task:** Coba pindah kembali ke posisi commit terbaru!
 
@@ -407,7 +407,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise7-2.png](assets/log/exercise7-2.png)
+    ![assets/log/exercise8-2.png](assets/log/exercise8-2.png)
   
 ## Diff
 
