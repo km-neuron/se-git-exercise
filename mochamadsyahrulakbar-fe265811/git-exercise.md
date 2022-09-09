@@ -4,9 +4,9 @@
 
 ## Identity
 
-| Name                    | Email                    | Kelas               |
-| ----------------------- | ------------------------ | ------------------- |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Name                   | Email                 | Kelas |
+| ---------------------- | --------------------- | ----- |
+| Mochamad Syahrul Akbar | 07tav2akbar@gmail.com | FE11  |
 
 ## Introduction
 
@@ -908,7 +908,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
 
-- url repository github _(change `url` with your public repository Github)_: [github](url)
+- url repository github _(https://github.com/syahrulakbar/mochamadsyahrulakbar-fe2615811)_: [github](https://github.com/syahrulakbar/mochamadsyahrulakbar-fe2615811)
 
 Finish.
 
