@@ -7,11 +7,10 @@
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
 <<<<<<< HEAD
-| Kemal Taufiq Hidayah| kemalpostman@gmail.com | House BE01 |
+| Kemal Taufiq Hidayah| kemalpostman@gmail.com | BE2579884 |
 =======
-| _change with your name_ | _change with your email_ | _change your class_ |
->>>>>>> c1417d0a669dc111861061b5eb989a69a85e64d0
 
+>>>>>>> 
 ## Introduction
 
 Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan dibawah ini akan berkelanjutan dengan repository yang sama. Jadi selamat mengerjakan! 😉
