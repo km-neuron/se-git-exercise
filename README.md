@@ -68,7 +68,7 @@ Berikut adalah rangkuman dari langkah-langkah untuk mengerjakan exercise Git:
 
   - Untuk tutorialnya, bisa disimak video berikut ini:
 
-    [![Fork Git Exercise](demo-fork-image.png)](https://youtu.be/qCbN4dX9-_4)
+    [![Fork Git Exercise](demo-fork-image.png)](https://www.youtube.com/watch?v=QN5zCSDV1Bc)
 
 ## Restrictions
 
