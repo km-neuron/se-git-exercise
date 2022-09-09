@@ -6,7 +6,11 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
+<<<<<<< HEAD
 | Kemal Taufiq Hidayah| kemalpostman@gmail.com | House BE01 |
+=======
+| _change with your name_ | _change with your email_ | _change your class_ |
+>>>>>>> c1417d0a669dc111861061b5eb989a69a85e64d0
 
 ## Introduction
 
