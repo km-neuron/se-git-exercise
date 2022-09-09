@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Riezqu Ibnanta | renixiel@gmail.com (RG), ucihaibna@yahoo.com (Github)   | BE2679491 |
 
 ## Introduction
 
