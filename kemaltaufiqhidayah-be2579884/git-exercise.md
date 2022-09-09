@@ -6,12 +6,9 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-<<<<<<< HEAD
-| Kemal Taufiq Hidayah| kemalpostman@gmail.com | BE2579884 |
-=======
 
->>>>>>> 
-## Introduction
+| Kemal Taufiq Hidayah| kemalpostman@gmail.com | BE2579884 |
+ ## Introduction
 
 Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan dibawah ini akan berkelanjutan dengan repository yang sama. Jadi selamat mengerjakan! 😉
 
