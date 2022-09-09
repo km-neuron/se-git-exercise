@@ -894,7 +894,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
 
-- url repository github https://github.com/MRIZQYFARIFARHAN/MuhammadRizqyFariFarhan-BE3019659.git
+- url repository github https://github.com/MRIZQYFARIFARHAN/MuhammadRizqyFariFarhan-BE3019659.git : [github](url)
   
 Finish.
 
