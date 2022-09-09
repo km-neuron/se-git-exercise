@@ -41,30 +41,29 @@ Berikut adalah rangkuman dari langkah-langkah untuk mengerjakan exercise Git:
 - Lakukan screenshot hasil dari perintah pada point _**task**_ atau _**required command**_ (screenshot harus sesuai dengan point expect dan jangan lupa harus diiringi dengan perintah `git config user.name && git config user.email`)
 - Simpan image screenshot pada folder **assets** sesuai dengan alamat folder yang ada di point _screenshoot your output_ (folder sudah disiapkan) **di repository ini**.
 - Seteleh selesai atau ingin update **Task** yang sudah dikerjakan, lakukan `push` repository ini lalu buat **Pull Request** dengan format:
-  - **Tittle**: `<fullname>` - `<ID>`.   Contoh: Aditira Jamhuri - BE2022
+
+  - **Tittle**: `Muhammad Khatam Ramadhan` - `FE2697973`.   Contoh: Aditira Jamhuri - BE2022
   - **Description**:
 
-    ```md
     _Progress Exercise Git_:
+
     - [X] Init
     - [X] Add
     - [X] Commit
     - [X] Commit History
-    - [ ] Diff
-    - [ ] Undo revision
-    - [ ] Undo advanced revisions
-    - [ ] Branch
-    - [ ] Remote
-    - [ ] Push
-    ```
-
+    - [X] Diff
+    - [X] Undo revision
+    - [X] Undo advanced revisions
+    - [X] Branch
+    - [X] Remote
+    - [X] Push
   - Contoh:
 
     ![PR Example](./example-pr.png)
-
   - Contoh PR: click [di sini](https://github.com/km-neutron/se-git-exercise/pull/1)
 
   > Note: jika semua task sudah selesai untuk dikerjakan, lakukan push dan checklist semua _Progress Exercise Git_ pada description **Pull Request**
+  >
 
 ## Restrictions
 
