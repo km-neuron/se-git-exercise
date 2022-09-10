@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Farhan Naufal Sormin | farhansormin31@gmail.com | FE2839496 |
 
 ## Introduction
 
@@ -894,7 +894,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
 
-- url repository github _(change `url` with your public repository Github)_: [github](url)
+- url repository github _(change `url` with your public repository Github)_: [github](https://github.com/farhansormin31/se-git-exercise.git)
   
 Finish.
 
