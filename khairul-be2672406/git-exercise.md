@@ -28,7 +28,7 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 
     - screenshoot your output:
 
-      ![assets/init/exercise1.png](assets/init/exercise1.png)
+      ![assets/init/exercise1.png](assets/init/exercise1.PNG)
   
   > **Warning!** Selanjutnya, setiap **Required command/output** harus diiringi dengan perintah `git config user.name && git config user.email` untuk memastikan keaslian screenshot.
 
@@ -58,7 +58,7 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 
     - screenshoot your output:
 
-      ![assets/init/exercise2.png](assets/init/exercise2.png)
+      ![assets/init/exercise2.png](assets/init/exercise2.PNG)
 
 ## Add
 
