@@ -5,7 +5,6 @@
 ## Objectives
 
 -   Mengerti penggunaan Git
-    -   test
     -   init
     -   add
     -   commit
