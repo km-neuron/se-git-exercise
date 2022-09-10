@@ -894,7 +894,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
 
-- url repository github _(change `url` with your public repository Github)_: [github](https://github.com/farhansormin31/se-git-exercise.git)
+- url repository github _(change `url` with your public repository Github)_: [github](https://github.com/farhansormin31/Farhan-Naufal-Sormin-FE2839496.git)
   
 Finish.
 
