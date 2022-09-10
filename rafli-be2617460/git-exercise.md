@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| _Nur Rafli Senda_ | _alentron01@gmail.com_ | _be2617460_ |
 
 ## Introduction
 
