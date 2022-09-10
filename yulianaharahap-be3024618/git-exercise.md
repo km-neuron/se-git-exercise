@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Yuliana Harahap | yulianaharahap17@gmail.com | BE3024618 |
+| _changes your name_ | _changes your email_| _changes your class_ |
 
 ## Introduction
 
@@ -894,7 +894,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
 
-- url repository github _(change `url` with your public repository Github)_: [github](url)
+- url repository github _(change `url` with your public repository Github)_: [github](https://github.com/yulianaharahap/yulianaharahap-be3024618)
   
 Finish.
 
