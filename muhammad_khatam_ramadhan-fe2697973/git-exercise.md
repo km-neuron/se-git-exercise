@@ -187,7 +187,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
         ngoding.js
   ```
 
-  - **Task**: File `ngoding.js` masih berada di **working directory**. Pindahkanlah ke **staging area** lalu commit dengan pesan "commit kedua" dan lihat history commitnya kembali!
+  - **qTask**: File `ngoding.js` masih berada di **working directory**. Pindahkanlah ke **staging area** lalu commit dengan pesan "commit kedua" dan lihat history commitnya kembali!
   - ***Required output**: Lakukan perintah `git config --list` diakhir.
 
     ```bash
@@ -375,7 +375,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
     * 5c22cd3 (HEAD -> master) menambahkan content h1 ke file belajar.html
     * 4c6adfa commit kedua
     * 2860ee9 commit pertama
-
+    c
     > git config user.name && git config user.email
     example_name
     example@gmail.com
@@ -833,7 +833,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 - screenshoot your repository Github:
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
-- https://github.com/AtamMN/muhammad_khatam_ramadhan-fe2697973/tree/master
+- url repository github _(change `url` with your public repository Github)_: [github](url)
 
 Finish.
 
