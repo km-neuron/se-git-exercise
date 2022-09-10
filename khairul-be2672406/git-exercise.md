@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Khairul Insan Karim | khairulinsankarim26@gmail.com | Backend Engineer |
+| Khairul Insan Karim | khairulinsankarim26@gmail.com | BE2672406 |
 
 ## Introduction
 
