@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| M Yardan Aqiella | myardan.aqiella22@gmail.com | FE06 |
+| M Yardan Aqiella | myardan.aqiella22@gmail.com | FE2748466 |
 
 ## Introduction
 
