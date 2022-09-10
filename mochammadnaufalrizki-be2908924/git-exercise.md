@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Mochammad Naufal Rizki | nerocldproject@gmail.com | BE2908924 |
+| Mochammad Naufal Rizki | nerocld.project@gmail.com | BE2908924 |
 
 ## Introduction
 
