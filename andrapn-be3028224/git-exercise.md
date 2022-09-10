@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Andra Putra Nurrafi | andraput988@gmail.com | BE3028224 |
 
 ## Introduction
 
