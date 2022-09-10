@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Khairul Insan Karim | khairulinsankarim26@gmail.com | Backend Engineer |
+| Khairul Insan Karim | khairulinsankarim26@gmail.com | BE2672406 |
 
 ## Introduction
 
@@ -894,7 +894,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
 
-- url repository github _(change `url` with your public repository Github)_: [github](url)
+- url repository github _(change `url` with your public repository Github)_: [github](https://github.com/kuramocheez/khairul-be2672406)
   
 Finish.
 
