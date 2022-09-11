@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| _Ika Nurmalika_ | _ikanurmalika22@gmail.com_ | _BE2572890_ |
 
 ## Introduction
 
