@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+|Carlos Aprillio | h1051201083@student.untan.ac.id | FE2640762 |
 
 ## Introduction
 
