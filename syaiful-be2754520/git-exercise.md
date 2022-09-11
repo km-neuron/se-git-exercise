@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Syaiful Rochman |l200200023@student.ums.ac.id | BE 03 |
 
 ## Introduction
 
