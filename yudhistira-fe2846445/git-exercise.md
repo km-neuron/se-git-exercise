@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Yudhistira Reyhan Wijaya | 111202012940@mhs.dinus.ac.id | FE2846445 |
+| Yudhistira Reyhan Wijaya | yudhistirawijaya13@gmail.com | FE2846445 |
 
 ## Introduction
 
