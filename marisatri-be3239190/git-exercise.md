@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Marisa Tri Indra Nayu Aini Kurnila | marisatrindra@gmail.com | BE3239190 |
+| _change with your name_ | _change with your email_ | _change your class_ |
 
 ## Introduction
 
