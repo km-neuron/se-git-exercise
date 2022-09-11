@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Muh Rizieq Fazlulrahman Djafar| riziqfr111@gmail.com|FE01 |
 
 ## Introduction
 
