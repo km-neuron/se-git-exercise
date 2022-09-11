@@ -6,7 +6,7 @@
 
 | Name                 | Email                    | Kelas       |
 | -------------------- | ------------------------ | ----------- |
-| Muhamad Putra Satria | putrasatria893@gmail.com | FE2585063cd |
+| Muhamad Putra Satria | putrasatria893@gmail.com | FE2585063 |
 
 ## Introduction
 
