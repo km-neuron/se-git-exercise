@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Apriadi Akbar Arzi | apriadiarzi@gmail.com | FE3133858 |
 
 ## Introduction
 
