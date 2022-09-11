@@ -4,15 +4,9 @@
 
 ## Identity
 
-<<<<<<< HEAD
-| Name | Email | Kelas |
-| ---  | ---   | ---   |
-| Fatwa Linovera | whyimustwriteit@gmail.com | FE05 |
-=======
 | Name           | Email                     | Kelas |
 | -------------- | ------------------------- | ----- |
 | Fatwa Linovera | whyimustwriteit@gmail.com | FE05  |
->>>>>>> 42508ac (commit topic done 10/10)
 
 ## Introduction
 
