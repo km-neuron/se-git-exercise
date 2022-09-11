@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Septiani Sari| septianisarimanik@gmail.com | BE08 |
+| _change with your name_ | _change with your email_ | _change your class_ |
 
 ## Introduction
 
