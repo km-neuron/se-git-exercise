@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Yuliana Harahap | yulianaharahap17@gmail.com | BE3024618 |
+| _changes your name_ | _changes your email_ | _changes your class_|
 
 ## Introduction
 
