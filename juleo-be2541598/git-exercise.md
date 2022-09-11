@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Moh. Juleo Rahardian Anugrah S | juleorahardian@gmail.com | be2541598 |
 
 ## Introduction
 
