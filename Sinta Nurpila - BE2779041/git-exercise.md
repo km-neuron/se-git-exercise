@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| _Sinta Nurpila_ | _2232000262@student.unaki.ac.id_ | _BE2779041_ |
 
 ## Introduction
 
