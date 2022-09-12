@@ -6,7 +6,8 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _Muhammad Hidayat_ | _jdjdkd669@gmail.com_ | _fe3189239_ |
+| _Muhammad Hidayat_ | _jdjdkd669@gmail.com_ | _fe3189239_ | 
+
 
 ## Introduction
 
@@ -758,7 +759,11 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
 - Exercise 6
 
+<<<<<<< HEAD
   - **Task:** Pindah ke branch `new-feature`, laukan perubahan pada file `ngoding.js` dengan menambahkan content "console.log('Update branch new-feature')" dan pada file `fun-feature.js` dengan content "console.log('My Cool Feature')". Lakukan commit dengan pesan "update branch new-feature file ngoding.js & feature.js"!
+=======
+  - **Task:** Pindah ke branch `new-feature`, laukan perubahan pada file `ngoding.js` dengan menambahkan content "console.log('Update branch new-feature')" dan pada file `feature.js` dengan content "console.log('My Cool Feature')". Lakukan commit dengan pesan "update branch new-feature file ngoding.js & feature.js"!
+>>>>>>> f974823b6cccb197840861867fc3b9c62655bb98
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph` untuk melihat percabangan yang terjadi
 
