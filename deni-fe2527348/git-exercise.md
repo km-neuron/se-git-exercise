@@ -804,7 +804,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - **Task:** Pindah ke branch `master` dan lakukan merge ke branch `new-feature`!. Harusnya terjadi conflict pada file `ngoding.js`.
 
-    ![conflict](./assets/conflict.PNG)
+    ![conflict](./assets/conflict.png)
 
     Solve conflict tersebut dengang memilih perubahan pada branch `master`!
 
@@ -842,7 +842,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - **Task:** buatlah repository **public** di profile github mun dengan format _`name-id`_. Contohnya:
 
-    ![Repo Private](./assets/repo-public.PNG)
+    ![Repo Private](./assets/repo-public.png)
 
     Lalu tambahkan **remote** dari repository yang telah dibuat, ke local repository yang sudah dibuat dengan format `name-id-exercise`!
 
@@ -902,7 +902,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
 - expected:
 
-  ![Repo Public Done](./assets/repo-done.PNG)
+  ![Repo Public Done](./assets/repo-done.png)
 
 - screenshoot your repository Github:
 
