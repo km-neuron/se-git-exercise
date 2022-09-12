@@ -758,7 +758,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
 - Exercise 6
 
-  - **Task:** Pindah ke branch `new-feature`, laukan perubahan pada file `ngoding.js` dengan menambahkan content "console.log('Update branch new-feature')" dan pada file `feature.js` dengan content "console.log('My Cool Feature')". Lakukan commit dengan pesan "update branch new-feature file ngoding.js & feature.js"!
+  - **Task:** Pindah ke branch `new-feature`, laukan perubahan pada file `ngoding.js` dengan menambahkan content "console.log('Update branch new-feature')" dan pada file `fun-feature.js` dengan content "console.log('My Cool Feature')". Lakukan commit dengan pesan "update branch new-feature file ngoding.js & feature.js"!
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph` untuk melihat percabangan yang terjadi
 
