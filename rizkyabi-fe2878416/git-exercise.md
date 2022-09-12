@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Muhammad Rizky Abiwafa Rulyawan | rizkyabiwafa@gmail.com | FE2878416 |
 
 ## Introduction
 
@@ -894,7 +894,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
 
-- url repository github _(change `url` with your public repository Github)_: [github](url)
+- url repository github _(change `url` with your public repository Github)_: https://github.com/Eclair08/rizkyabi-fe2878416-exercise.git
   
 Finish.
 
