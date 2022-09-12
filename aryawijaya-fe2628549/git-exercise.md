@@ -824,7 +824,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
 ## Remote
 
-- Exercise 1
+- Exercise 1 (Done)
 
   - **Task:** buatlah repository **public** di profile github mun dengan format _`name-id`_. Contohnya:
 
@@ -852,7 +852,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
 ## Push
 
-- Exercise 1
+- Exercise 1 (Done)
 
   - **Task:** Lakukanlah `push` ke remote repository yang telah ditambahkan dengan branch bernama `main`:!
 
@@ -894,7 +894,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
 
-- url repository github _(change `url` with your public repository Github)_: [github](url)
+- url repository github _(change `url` with your public repository Github)_: [github]https://github.com/Aryaw1jaya/arya-fe2628549
   
 Finish.
 
