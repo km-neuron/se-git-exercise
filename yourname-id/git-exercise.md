@@ -17,13 +17,13 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 - Exercise 1
   - **Task**: Configurasi **email** dan **name** Git mu dengan identitas yang benar agar git bisa membuat `commit`!
 
-  - ***Required command**: lakukan perintah `git config --list`:
+  - ***Required command**: lakukan perintah `git config user.name && git config user.email`:
     - expected:
 
       ```bash
-      > git config --list
-      user.email=example@gmail.com 
-      user.name=example_name
+      > git config user.name && git config user.email
+      example_name
+      example@gmail.com
       ```
 
     - screenshoot your output:
@@ -34,7 +34,7 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 
 - Exercise 2
 
-  - **Task**: Buatlah sebuah folder bernama **git-exercise**, masuk ke folder tersebut dan jadikan sebagai repository git!
+  - **Task**: Buatlah sebuah folder dengan format `name-id-exercise` (contoh: aditira-be2022-exercise) diluar folder **se-git-exercise** ini, masuk ke folder tersebut dan jadikan sebagai repository git!
 
   - ***Required command**: lakukan perintah `pwd`, `ls -la` lalu gunakan perintah `git status`:
     - expected:
@@ -339,7 +339,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
     ![assets/log/exercise6.png](assets/log/exercise6.png)
 
-- Exercise 6
+- Exercise 7
 
   - **Task:** Lakukan perintah Git untuk melihat history commit dengan menampilkan pointer pada setiap commit-nya!
   
@@ -371,9 +371,9 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
   
   - screenshoot your output:
 
-    ![assets/log/exercise6.png](assets/log/exercise6.png)
+    ![assets/log/exercise7.png](assets/log/exercise7.png)
 
-- Exercise 7
+- Exercise 8
   
   - **Task:** Cobalah kamu pindah ke commit yang pertama kali! Dan coba tampilkan history commit nya dengan kombinasi satu baris dan menampilkan pointer!
   
@@ -389,7 +389,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise7-1.png](assets/log/exercise7-1.png)
+    ![assets/log/exercise8-1.png](assets/log/exercise8-1.png)
   
   - **Task:** Coba pindah kembali ke posisi commit terbaru!
 
@@ -407,7 +407,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise7-2.png](assets/log/exercise7-2.png)
+    ![assets/log/exercise8-2.png](assets/log/exercise8-2.png)
   
 ## Diff
 
@@ -758,7 +758,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
 - Exercise 6
 
-  - **Task:** Pindah ke branch `new-feature`, laukan perubahan pada file `ngoding.js` dengan menambahkan content "console.log('Update branch new-feature')" dan pada file `feature.js` dengan content "console.log('My Cool Feature')". Lakukan commit dengan pesan "update branch new-feature file ngoding.js & feature.js"!
+  - **Task:** Pindah ke branch `new-feature`, laukan perubahan pada file `ngoding.js` dengan menambahkan content "console.log('Update branch new-feature')" dan pada file `fun-feature.js` dengan content "console.log('My Cool Feature')". Lakukan commit dengan pesan "update branch new-feature file ngoding.js & feature.js"!
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph` untuk melihat percabangan yang terjadi
 
@@ -830,7 +830,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     ![Repo Private](./assets/repo-public.png)
 
-    Lalu tambahkan **remote** dari repository yang telah dibuat, ke local repository yang bernama **git-exercise**!
+    Lalu tambahkan **remote** dari repository yang telah dibuat, ke local repository yang sudah dibuat dengan format `name-id-exercise`!
 
   - ***Required command**: Lakukan perintah `git remote -v` untuk mengetahui remote repository yang sudah ditambahkan.
 
