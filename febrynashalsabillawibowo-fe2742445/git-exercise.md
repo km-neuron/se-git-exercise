@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Febryna S W | febrynafazuya@students.amikom.ac.id | FE2742445 |
 
 ## Introduction
 
