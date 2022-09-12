@@ -415,7 +415,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
   
   - **Task:** Ubahlah isi dari file `belajar.html` menjadi "`<h1>Latihan Git - CAMP2022</h1>`" dan juga tambahkan juga isi file `ngoding.js` menjadi "console.log('Hello Git')", dan coba lihat perubahan tersebut menggunakan `diff`!
 
-  - ***Required output**: Lakukan perintah `git config --list` diakhir
+  - ***Required output**: Lakukan perintah `git config user.name && git config user.email` diakhir
 
     - expected:
 
