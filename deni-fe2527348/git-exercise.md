@@ -95,7 +95,7 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 
     - screenshoot your output:
 
-      ![assets/add/exercise1.png](assets/add/exercise1.png)
+      ![assets/add/exercise1.PNG](assets/add/exercise1.PNG)
 
 - Exercise 2
 
@@ -125,7 +125,7 @@ Kita akan melakukan practice dengan 1 repository yang dibuat. Jadi soal latihan 
 
     - screenshoot your output:
 
-      ![assets/add/exercise2.png](assets/add/exercise2.png)
+      ![assets/add/exercise2.PNG](assets/add/exercise2.PNG)
 
     > Perhatikan keluaran dari git status, lihat file `belajar.html` pindah ke staging area.
 
@@ -159,7 +159,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
     - screenshoot your output:
 
-      ![assets/commit/exercise1.png](assets/commit/exercise1.png)
+      ![assets/commit/exercise1.PNG](assets/commit/exercise1.PNG)
 
     > Sekarang terlihat bahwa file `belajar.html` sudah tidak ada di staging area dan artinya kita sudah berhasil **commit**.
 
@@ -185,7 +185,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise1.png](assets/log/exercise1.png)
+    ![assets/log/exercise1.PNG](assets/log/exercise1.PNG)
 
 - Exercise 2
 
@@ -223,7 +223,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise2-1.png](assets/log/exercise2-1.png)
+    ![assets/log/exercise2-1.PNG](assets/log/exercise2-1.PNG)
 
   - **\*Required command**: Lakukanlah perintah `git status`
 
@@ -241,7 +241,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
     - screenshoot your output:
 
-      ![assets/log/exercise2-2.png](assets/log/exercise2-2.png)
+      ![assets/log/exercise2-2.PNG](assets/log/exercise2-2.PNG)
 
 - Exercise 3
 
@@ -265,7 +265,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
     - screenshoot your output:
 
-      ![assets/log/exercise3.png](assets/log/exercise3.png)
+      ![assets/log/exercise3.PNG](assets/log/exercise3.PNG)
 
     > Terlihat bahwa sekarang, file `belajar.html` sudah berada di **staging area** dengan status _modified_
 
@@ -300,7 +300,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise4.png](assets/log/exercise4.png)
+    ![assets/log/exercise4.PNG](assets/log/exercise4.PNG)
 
 - Exercise 5
 
@@ -328,7 +328,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise5.png](assets/log/exercise5.png)
+    ![assets/log/exercise5.PNG](assets/log/exercise5.PNG)
 
 - Exercise 6
 
@@ -348,7 +348,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise6.png](assets/log/exercise6.png)
+    ![assets/log/exercise6.PNG](assets/log/exercise6.PNG)
 
 - Exercise 7
 
@@ -382,7 +382,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise7.png](assets/log/exercise7.png)
+    ![assets/log/exercise7.PNG](assets/log/exercise7.PNG)
 
 - Exercise 8
 
@@ -400,7 +400,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise8-1.png](assets/log/exercise8-1.png)
+    ![assets/log/exercise8-1.PNG](assets/log/exercise8-1.PNG)
 
   - **Task:** Coba pindah kembali ke posisi commit terbaru!
 
@@ -418,7 +418,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise8-2.png](assets/log/exercise8-2.png)
+    ![assets/log/exercise8-2.PNG](assets/log/exercise8-2.PNG)
 
 ## Diff
 
@@ -452,7 +452,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
     - screenshoot your output:
 
-      ![assets/diff/exercise1.png](assets/diff/exercise1.png)
+      ![assets/diff/exercise1.PNG](assets/diff/exercise1.PNG)
 
 - Exercise 2
 
@@ -478,7 +478,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
     - screenshoot your output:
 
-      ![assets/diff/exercise2.png](assets/diff/exercise2.png)
+      ![assets/diff/exercise2.PNG](assets/diff/exercise2.PNG)
 
 ## Undo revision
 
@@ -519,7 +519,7 @@ Terlihat diatas bahwa terjadi perubahan file pada `belajar.html` dan `ngoding.ht
 
     - screenshoot your output:
 
-      ![assets/undo/exercise1.png](assets/undo/exercise1.png)
+      ![assets/undo/exercise1.PNG](assets/undo/exercise1.PNG)
 
 - Exercise 2
 
@@ -548,7 +548,7 @@ Terlihat diatas bahwa terjadi perubahan file pada `belajar.html` dan `ngoding.ht
 
     - screenshoot your output:
 
-      ![assets/undo/exercise2.png](assets/undo/exercise2.png)
+      ![assets/undo/exercise2.PNG](assets/undo/exercise2.PNG)
 
 - Exercise 3
 
@@ -570,7 +570,7 @@ Terlihat diatas bahwa terjadi perubahan file pada `belajar.html` dan `ngoding.ht
 
     - screenshoot your output:
 
-      ![assets/undo/exercise3.png](assets/undo/exercise3.png)
+      ![assets/undo/exercise3.PNG](assets/undo/exercise3.PNG)
 
 ## Undo advanced revisions
 
@@ -610,7 +610,7 @@ Sekarang story commit kita sudah ada 4 pointer yang berisi setiap perubahan pada
 
     - screenshoot your output:
 
-      ![assets/undo-advanced/exercise1.png](assets/undo-advanced/exercise1.png)
+      ![assets/undo-advanced/exercise1.PNG](assets/undo-advanced/exercise1.PNG)
 
 > Kita lihat bahwa file `belajar.html` dan `ngoding.js` kembali ke kondisi di commit `88b656e`
 
@@ -650,7 +650,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise1.png](assets/branch/exercise1.png)
+      ![assets/branch/exercise1.PNG](assets/branch/exercise1.PNG)
 
 - Exercise 2
 
@@ -678,7 +678,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise2.png](assets/branch/exercise2.png)
+      ![assets/branch/exercise2.PNG](assets/branch/exercise2.PNG)
 
 - Exercise 3
 
@@ -707,7 +707,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise3.png](assets/branch/exercise3.png)
+      ![assets/branch/exercise3.PNG](assets/branch/exercise3.PNG)
 
     > Jadi begitulah sebuah branch pada Git. Dia melakukan isolasi setiap perubahan pada file dan folder berdasarkan branch nya.
 
@@ -737,7 +737,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise4.png](assets/branch/exercise4.png)
+      ![assets/branch/exercise4.PNG](assets/branch/exercise4.PNG)
 
   > Disini terlihat bahwa sudah terjadi percabangan pada branch `master` dengan `new-feature`
 
@@ -768,7 +768,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise5.png](assets/branch/exercise5.png)
+      ![assets/branch/exercise5.PNG](assets/branch/exercise5.PNG)
 
 - Exercise 6
 
@@ -798,13 +798,13 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise6.png](assets/branch/exercise6.png)
+      ![assets/branch/exercise6.PNG](assets/branch/exercise6.PNG)
 
 - Exercise 7
 
   - **Task:** Pindah ke branch `master` dan lakukan merge ke branch `new-feature`!. Harusnya terjadi conflict pada file `ngoding.js`.
 
-    ![conflict](./assets/conflict.png)
+    ![conflict](./assets/conflict.PNG)
 
     Solve conflict tersebut dengang memilih perubahan pada branch `master`!
 
@@ -834,7 +834,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise7.png](assets/branch/exercise7.png)
+      ![assets/branch/exercise7.PNG](assets/branch/exercise7.PNG)
 
 ## Remote
 
@@ -842,7 +842,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   - **Task:** buatlah repository **public** di profile github mun dengan format _`name-id`_. Contohnya:
 
-    ![Repo Private](./assets/repo-public.png)
+    ![Repo Private](./assets/repo-public.PNG)
 
     Lalu tambahkan **remote** dari repository yang telah dibuat, ke local repository yang sudah dibuat dengan format `name-id-exercise`!
 
@@ -862,7 +862,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/remote/exercise1.png](assets/remote/exercise1.png)
+      ![assets/remote/exercise1.PNG](assets/remote/exercise1.PNG)
 
 ## Push
 
@@ -896,17 +896,17 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/push/exercise1.png](assets/push/exercise1.png)
+      ![assets/push/exercise1.PNG](assets/push/exercise1.PNG)
 
 **\*Last requirement**: sreenshoot private repository github mu:
 
 - expected:
 
-  ![Repo Public Done](./assets/repo-done.png)
+  ![Repo Public Done](./assets/repo-done.PNG)
 
 - screenshoot your repository Github:
 
-  ![assets/repo/exercise1.png](assets/repo/exercise1.png)
+  ![assets/repo/exercise1.PNG](assets/repo/exercise1.PNG)
 
 - url repository github _(change `url` with your public repository Github)_: [github](url)
 
