@@ -1,0 +1,132 @@
+[33mcommit fd3865226b5c2aa0a76448de503a8ef429ee917f[m[33m ([m[1;36mHEAD -> [m[1;32mSyuryoHadhi-BE2677201[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Fri Sep 9 20:02:44 2022 +0700
+
+    Update README.md
+
+[33mcommit f3279b98e27d6c3409350eb03d21930198d5e9f8[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Fri Sep 9 16:21:36 2022 +0700
+
+    feat: add fork tutorial git exercise
+
+[33mcommit 5dddcc9eacb251f005a77ab3d92e8640c60dcdc9[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Thu Sep 8 10:56:01 2022 +0700
+
+    fix: add folder assets undo advanced
+
+[33mcommit 15aea5e3199dd8bcdf9485af83d5c35ca71906a7[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Thu Sep 8 09:31:05 2022 +0700
+
+    fix: improve numbering image url
+
+[33mcommit 7e08f0844102b67dd9502dc7b9af685b3e1d215b[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Mon Aug 8 17:54:19 2022 +0700
+
+    fix: commit history numbers
+
+[33mcommit c722f0c5d1f9847f71f460eb66a30334f5773112[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Mon Aug 8 13:20:47 2022 +0700
+
+    fix: confirms work outside of this repository in the README.md file
+
+[33mcommit 7afd79a10726fe6a9c2d6da4bb561b6df94144b3[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 12:52:32 2022 +0700
+
+    Update README.md
+
+[33mcommit 63fecac582b68bcc7e474b86af3c07d83a3d3a7d[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 12:50:37 2022 +0700
+
+    change demo-image.png
+
+[33mcommit f13b924a53da0f0e1ed32f47df79509cccdbcc48[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 12:45:31 2022 +0700
+
+    Update README.md
+
+[33mcommit f68a6cc736d3cd4d6ff27b4a3fb5685688cbb386[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 12:44:03 2022 +0700
+
+    Add files via upload
+
+[33mcommit 926f9a949933af79293400c060fe41dc5159981b[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 11:41:30 2022 +0700
+
+    Update README.md
+
+[33mcommit 0e9f8a0b7ec7280564a29993cbb6d1eafe37b4a9[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 11:40:34 2022 +0700
+
+    Update git-exercise.md
+
+[33mcommit 40781613e9fab3d7ca64b5b706e179f8e0224ea0[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 10:25:25 2022 +0700
+
+    Update README.md
+
+[33mcommit 3a485f08429b94f5e3c2a1af98fb3fe56cb87093[m
+Merge: 67d15bd cf845b5
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 09:48:11 2022 +0700
+
+    Merge branch 'main' of https://github.com/km-neutron/se-git-exercise
+
+[33mcommit 67d15bd91634e2382aee27c4533fe32e76254f45[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 09:48:00 2022 +0700
+
+    feat: add empty folder on assets
+
+[33mcommit cf845b5e026d098aae96017476a683bcdda73783[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 08:59:53 2022 +0700
+
+    Update README.md
+
+[33mcommit 7d6f6e981fb3142cdd2b4a97be8b9e2b6e6322c4[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 08:59:24 2022 +0700
+
+    Update README.md
+
+[33mcommit b0c96d1ae67f2d11bc97ae2d437a75efa46ce471[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Wed Aug 3 08:58:34 2022 +0700
+
+    Update README.md
+
+[33mcommit 533ab3797de84329fec78d21cdd795cb87d756fd[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Tue Aug 2 15:49:29 2022 +0700
+
+    feat: add link example PR
+
+[33mcommit 49eab7cb795887661ac37250c28de0aa895d492d[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Tue Aug 2 14:45:27 2022 +0700
+
+    fix: change mandatory command `git config --list` to `git config user.name && git config user.email`
+
+[33mcommit 8fc02846795f39802b3b14431b24706402a45c97[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Tue Aug 2 14:05:04 2022 +0700
+
+    fix: change typo janggan to jangan
+
+[33mcommit 7b96ce11a9d8c0bceb10bb0c09cbe6828b209bbf[m
+Author: Aditira Jamhuri <aditirajamhuri@gmail.com>
+Date:   Tue Aug 2 13:59:55 2022 +0700
+
+    feat: add exercise git camp 2022
