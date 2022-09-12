@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| _isnaeni nurhidayah_ | _isnanurhidayah02@gmail.com_ | _be2824908_ |
 
 ## Introduction
 
