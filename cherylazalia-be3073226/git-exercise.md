@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Cheryl Azalia | cherazz255@gmail.com | BE3073226 |
 
 ## Introduction
 
