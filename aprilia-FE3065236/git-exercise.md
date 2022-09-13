@@ -5,7 +5,7 @@
 ## Identity
 
 | Name | Email | Kelas |
-| ---  | ---   | ---   |
+
 | Aprilia Ningsih | aprilianingsih954@gmail.com | FE3065236 |
 
 ## Introduction
