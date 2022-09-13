@@ -415,7 +415,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
   
   - **Task:** Ubahlah isi dari file `belajar.html` menjadi "`<h1>Latihan Git - CAMP2022</h1>`" dan juga tambahkan juga isi file `ngoding.js` menjadi "console.log('Hello Git')", dan coba lihat perubahan tersebut menggunakan `diff`!
 
-  - ***Required output**: Lakukan perintah `git config --list` diakhir
+  - ***Required output**: Lakukan perintah `git config user.name && git config user.email` diakhir
 
     - expected:
 
@@ -758,7 +758,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
 - Exercise 6
 
-  - **Task:** Pindah ke branch `new-feature`, laukan perubahan pada file `ngoding.js` dengan menambahkan content "console.log('Update branch new-feature')" dan pada file `feature.js` dengan content "console.log('My Cool Feature')". Lakukan commit dengan pesan "update branch new-feature file ngoding.js & feature.js"!
+  - **Task:** Pindah ke branch `new-feature`, laukan perubahan pada file `ngoding.js` dengan menambahkan content "console.log('Update branch new-feature')" dan pada file `fun-feature.js` dengan content "console.log('My Cool Feature')". Lakukan commit dengan pesan "update branch new-feature file ngoding.js & feature.js"!
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph` untuk melihat percabangan yang terjadi
 
