@@ -1,4 +1,4 @@
-git # Exercise Git and Github
+# Exercise Git and Github
 
 ![Git and Github](./../git-github.png)
 
