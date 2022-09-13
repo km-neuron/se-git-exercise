@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Aprilia Ningsih | aprilianingsih954@gmail.com | FE3065236 |
 
 ## Introduction
 
