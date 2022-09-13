@@ -27,8 +27,6 @@
 
 Untuk melihat cara mengerjakan Exercise ini, simak video demo di bawah ini:
 
-<!-- Video Here -->
-
 [![Demo Git Exercise](demo-image.png)](https://youtu.be/qCbN4dX9-_4)
 
 Berikut adalah rangkuman dari langkah-langkah untuk mengerjakan exercise Git:
@@ -65,6 +63,12 @@ Berikut adalah rangkuman dari langkah-langkah untuk mengerjakan exercise Git:
   - Contoh PR: click [di sini](https://github.com/km-neutron/se-git-exercise/pull/1)
 
   > Note: jika semua task sudah selesai untuk dikerjakan, lakukan push dan checklist semua _Progress Exercise Git_ pada description **Pull Request**
+
+- Jika tidak bisa melakukan push karena error **403**. Lakukan **Fork** repository ini terlebih dahulu ke profile github masing-masing dan lakukan push di sana.
+
+  - Untuk tutorialnya, bisa disimak video berikut ini:
+
+    [![Fork Git Exercise](demo-fork-image.png)](https://www.youtube.com/watch?v=QN5zCSDV1Bc)
 
 ## Restrictions
 
