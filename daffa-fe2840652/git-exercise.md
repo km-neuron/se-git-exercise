@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| _daffa_ | _harizal.daffa46@gmail.com_ | _fe03_ |
 
 ## Introduction
 
