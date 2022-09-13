@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| _Aprilia Ningsih_ | _aprilianingsih@gmail.com_ | _FE3065236_ |
 
 ## Introduction
 
