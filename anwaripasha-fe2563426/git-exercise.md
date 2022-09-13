@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| _Anwaripasha Akbar_ | _pashaakbar52@gmail.com_ | _fe2563426_ |
 
 ## Introduction
 
