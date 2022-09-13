@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Faizunnazif Al Barohin | faizoen75@gmail.com | FE6212933 |
+| Faizunnazif Al Barohin | faizoen75@gmail.com | FE2612933 |
 
 ## Introduction
 
