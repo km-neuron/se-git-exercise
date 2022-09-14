@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| septi | andiseptialifah02@gmail.com | fe2954125 |
 
 ## Introduction
 
