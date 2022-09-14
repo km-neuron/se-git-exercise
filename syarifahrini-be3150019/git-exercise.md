@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Syarifah Rini Agustina | syarifahagustina3@gmail.com | BE3150019  |
 
 ## Introduction
 
