@@ -894,7 +894,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
   ![assets/repo/exercise1.png](assets/repo/exercise1.png)
 
-- url repository github _(change `url` with your public repository Github)_: [github](url)
+- url repository github _(change `url` with your public repository Github)_: [https://github.com/kahfiShohibul/Shohibul-Kahfi-BE2632392](url)
   
 Finish.
 
