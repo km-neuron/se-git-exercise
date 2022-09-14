@@ -6,7 +6,7 @@
 
 | Name                       | Email               | Kelas |
 | -------------------------- | ------------------- | ----- |
-| I Gede Durya Satya Herdaya | satyagray@gmail.com | BE06  |
+| I Gede Durya Satya Herdaya | satyagray@gmail.com | BE-06 |
 
 ## Introduction
 
