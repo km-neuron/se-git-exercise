@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| Reza Zulkifli Ferdiansyah | zukifliferdiansyah@gmail.com | BE08 |
+| Reza Zulkifli Ferdiansyah | zukifliferdiansyah@gmail.com | BE-08 |
 
 ## Introduction
 
