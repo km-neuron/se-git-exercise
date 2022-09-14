@@ -48,12 +48,12 @@ Berikut adalah rangkuman dari langkah-langkah untuk mengerjakan exercise Git:
     - [X] Add
     - [X] Commit
     - [X] Commit History
-    - [ ] Diff
-    - [ ] Undo revision
-    - [ ] Undo advanced revisions
-    - [ ] Branch
-    - [ ] Remote
-    - [ ] Push
+    - [x] Diff
+    - [x] Undo revision
+    - [x] Undo advanced revisions
+    - [x] Branch
+    - [x] Remote
+    - [x] Push
     ```
 
   - Contoh:
