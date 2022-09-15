@@ -892,7 +892,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
 - screenshoot your repository Github:
 
-  ![assets/repo/exercise1.png](assets/repo/exercise1.png)
+  ![assets/repo/exercise1.png](assets/repo/exercise1.PNG)
 
 - url repository github _(change `url` with your public repository Github)_: [github](url)
   
