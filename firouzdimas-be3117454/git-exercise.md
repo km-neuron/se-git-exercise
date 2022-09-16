@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| M.Firouz Dimas Sadewo | firouzdimas@students.undip.ac.id | BE House 3 |
 
 ## Introduction
 
