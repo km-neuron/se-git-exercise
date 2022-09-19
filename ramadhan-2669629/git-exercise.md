@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| Ramadhan Wahyu Sahputra | ramadhan.wahyusahputra.tik20@mhsw.pnj.ac.id | BE2669629 |
 
 ## Introduction
 
