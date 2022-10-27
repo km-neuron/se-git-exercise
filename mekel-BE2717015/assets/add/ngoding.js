@@ -1,1 +1,1 @@
-console.log('Update branch master')
+console.log('Hello Git')
